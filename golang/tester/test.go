@@ -3,7 +3,7 @@ package tester
 import (
 	"fmt"
 
-	"https://github.com/pp221B030915/module/tree/master/golang/module"
+	"github.com/pp221B030915/module/tree/master/golang/module"
 )
 
 func main() {
